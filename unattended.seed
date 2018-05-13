@@ -1,7 +1,6 @@
 # Locales
-d-i debian-installer/locale string en_US
-d-i debian-installer/language string en
-d-i debian-installer/country string FR
+#d-i debian-installer/language string en
+#d-i debian-installer/country string FR
 d-i debian-installer/locale string en_US.UTF-8
 
 # Keyboard
